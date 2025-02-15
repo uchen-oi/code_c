@@ -1,0 +1,5 @@
+﻿D:\vs\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(素数.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  结构体求平均值范例.cpp
+  new.cpp
+  正在生成代码...
+  素数.vcxproj -> C:\Users\三月\OneDrive\桌面\实验\程序设计\c++\c\x64\Debug\c.exe

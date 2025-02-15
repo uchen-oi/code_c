@@ -1,0 +1,31 @@
+﻿D:\vs\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(素数.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  冒泡.cpp
+  函数.cpp
+  函数声明与调用.cpp
+  判断字母数.cpp
+  动态字符串排序.cpp
+  字符串复制.cpp
+  字符串排序.cpp
+  字符串比较.cpp
+  排序.cpp
+  插入x.cpp
+  斐波那契.cpp
+  杨辉三角.cpp
+  结构体.cpp
+  结构体求平均值.cpp
+  结构体求平均值范例.cpp
+  菱形.cpp
+  转分制.cpp
+  选择排序.cpp
+  递归.cpp
+  链表.cpp
+  正在生成代码...
+  正在编译...
+  practice.cpp
+  大链表.cpp
+  小小计算器.cpp
+  素数.cpp
+  计数.cpp
+  二级菜单.cpp
+  正在生成代码...
+  素数.vcxproj -> C:\Users\三月\OneDrive\桌面\作业\程序设计\c++\c\x64\Debug\c.exe
